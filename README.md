@@ -1,6 +1,8 @@
 # qr
 create a encrypted qr code!
 
+Note : if you dont have python or library required for program (qr_app.py) dont use the (qr_app.py) and extract the rar files then use the (decode_qr.exe) this file.
+
 in the standard way adter you generating a qr code anyone can see what is in inside that but when you use this script the generated qr qode have a 32 bit encryptation and after scaning with a normal scanner you just saw some wierd letter but when you scan the qr with this program you can see whats realey inside this.
 
 first input field : this field is for pasting the encrypted text
